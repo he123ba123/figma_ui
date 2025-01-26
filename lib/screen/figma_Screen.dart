@@ -49,7 +49,7 @@ class FigmaScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 SizedBox(
-                  height: 55,
+                  height: 50,
                 ),
                 Text(
                   "--------------------------------------------------------------------------------------------",
